@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "40",
+      "firstName": "Pablo",
+      "age": 50,
+      "companyId": "1"
+    },
+    {
+      "id": "30",
+      "firstName": "Bob",
+      "age": 40,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Javier",
+      "age": 26,
+      "id": "vmjoND_"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Google",
+      "description": "IT"
+    },
+    {
+      "id": "2",
+      "name": "H&M",
+      "description": "Clothes"
+    }
+  ]
+}
